@@ -15,6 +15,10 @@
 <a href="https://linkedin.com/in/" target="_blank">
   <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=D4AF37&labelColor=1a0b0c" />
 </a>
+&nbsp;
+<a href="https://harshsingh07i.github.io/Portfolio/" target="_blank">
+  <img src="https://img.shields.io/badge/PORTFOLIO-D4AF37?style=for-the-badge&logo=firefox&logoColor=1a0b0c&labelColor=740001" />
+</a>
 
 <br/><br/><br/>
 
@@ -23,8 +27,38 @@
 <p align="center">
   <b>🧙‍♂️ Wizard Identity:</b> Harsh Singh (<i>Gryffindor 🦁</i>) <br/><br/>
   <b>⚡ Current Status:</b> Brewing Code Potions (<i>Full-Stack Dev</i>) <br/><br/>
-  <b>🦉 O.W.L. Expertise:</b> <br/><br/>
+  <b>🎯 O.W.L. Expertise:</b> <br/><br/>
   Defense Against Dark Arts (<i>Cybersec</i>) &nbsp;&nbsp;•&nbsp;&nbsp; Potions (<i>Backend APIs</i>) &nbsp;&nbsp;•&nbsp;&nbsp; Transfiguration (<i>React/UI</i>)
+</p>
+
+<br/><br/>
+
+<h2>📜 MINISTRY OF MAGIC HISTORY (Experience)</h2>
+
+<p align="center">
+  <b>Data Analyst Intern</b> @ <i>Tata Group (Tata iQ)</i> <br/>
+  <sup><i>AI-powered data analysis, predictive modeling & GenAI tools</i></sup><br/><br/>
+  
+  <b>Data Science Intern</b> @ <i>British Airways</i> <br/>
+  <sup><i>Customer insights, predictive modeling & data visualization</i></sup><br/><br/>
+  
+  <b>Cybersecurity Analyst Intern</b> @ <i>TCS</i> <br/>
+  <sup><i>Identity & Access Management (IAM), enterprise security protocols</i></sup>
+</p>
+
+<br/><br/>
+
+<h2>🏆 MAGICAL QUESTS (Top Projects)</h2>
+
+<p align="center">
+  <a href="https://github.com/harshsingh07i"><b>Sahayak AI (EdTech)</b></a> — <i>3rd Rank Winner @ EdTech OnHack</i> <br/>
+  <sup><i>AI-powered educational assistant for students & educators.</i></sup><br/><br/>
+  
+  <a href="https://github.com/harshsingh07i/AI-FlashCard-FlashGenius"><b>AI FlashCard – FlashGenius</b></a> — <i>Dynamic AI learning app</i> <br/>
+  <sup><i>Improves revision efficiency using AI-generated flashcards.</i></sup><br/><br/>
+
+  <a href="https://github.com/harshsingh07i/Problem-reporting-tool"><b>Problem Reporting Tool</b></a> — <i>Web-based tracking system</i> <br/>
+  <sup><i>Structured categorization and issue management.</i></sup><br/><br/>
 </p>
 
 <br/><br/>
