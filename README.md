@@ -8,7 +8,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=700&size=22&duration=3000&pause=800&color=D4AF37&center=true&vCenter=true&width=650&height=45&lines=%3E+Mischief+Managed...+I+mean%2C+Code+Deployed!_%3B%3E+Casting+spells+in+Node.js+and+React..._%3B%3E+Full-stack+%2B+Open+Source+%3D+Harsh..._%3B%3E+Defeating+bugs+like+Dementors..._%3B%3E+%E2%9A%A1+The+Code+that+Lived..." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Griffy&weight=700&size=25&duration=3000&pause=800&color=D4AF37&center=true&vCenter=true&width=650&height=45&lines=%3E+Mischief+Managed...+I+mean%2C+Code+Deployed!_%3B%3E+Casting+spells+in+Node.js+and+React..._%3B%3E+Full-stack+%2B+Open+Source+%3D+Harsh..._%3B%3E+Defeating+bugs+like+Dementors..._%3B%3E+%E2%9A%A1+The+Code+that+Lived..." alt="Typing SVG" />
 
 <br/><br/>
 
