@@ -25,9 +25,9 @@
 <h2>🗺️ THE MARAUDER'S MAP</h2>
 
 <p align="center">
-  <b> Wizard Identity:</b> Harsh Singh (<i>Gryffindor 🦁</i>) <br/><br/>
+  <b>🧙‍♂️ Wizard Identity:</b> Harsh Singh (<i>Gryffindor 🦁</i>) <br/><br/>
   <b>Current Status:</b> Brewing Code Potions (<i>Full-Stack Dev</i>) <br/><br/>
-  <b> O.W.L. Expertise:</b> <br/><br/>
+  <b>🎯 O.W.L. Expertise:</b> <br/><br/>
   Defense Against Dark Arts (<i>Cybersec</i>) &nbsp;&nbsp;•&nbsp;&nbsp; Potions (<i>Backend APIs</i>) &nbsp;&nbsp;•&nbsp;&nbsp; Transfiguration (<i>React/UI</i>)
 </p>
 
@@ -48,7 +48,7 @@
 
 <br/><br/>
 
-<h2> MAGICAL QUESTS (Top Projects)</h2>
+<h2>🏆 MAGICAL QUESTS (Top Projects)</h2>
 
 <p align="center">
   <a href="https://github.com/harshsingh07i"><b>Sahayak AI (EdTech)</b></a> — <i>3rd Rank Winner @ EdTech OnHack</i> <br/>
@@ -63,11 +63,7 @@
 
 <br/><br/>
 
-<h2> MAGICAL STATS</h2>
-
-<a href="https://github.com/harshsingh07i">
-  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=harshsingh07i&theme=dracula&show_icons=true&hide_border=true" />
-</a>
+<h2>✨ MAGICAL STATS</h2>
 <a href="https://github.com/harshsingh07i">
   <img height="175em" src="https://streak-stats.demolab.com/?user=harshsingh07i&theme=dracula&hide_border=true&ring=D4AF37&fire=740001&currStreakNum=ffffff&sideNums=c9d1d9&dates=888888" />
 </a>
