@@ -20,7 +20,7 @@ svg_content = f"""<svg width="1000" height="400" xmlns="http://www.w3.org/2000/s
   <rect x="0" y="0" width="1000" height="400" fill="black" fill-opacity="0.6" />
 
   <!-- Main Title -->
-  <text x="500" y="200" font-family="'Courier New', Courier, monospace" font-size="65" font-weight="bold" fill="#D4AF37" text-anchor="middle" letter-spacing="4">⚡ HARSH SINGH ⚡</text>
+  <text x="500" y="200" font-family="'Courier New', Courier, monospace" font-size="65" font-weight="bold" fill="#D4AF37" text-anchor="middle" letter-spacing="4">HARSH SINGH</text>
   
   <!-- Subtitle -->
   <text x="500" y="260" font-family="'Segoe UI', Arial, sans-serif" font-size="22" font-weight="300" fill="#ffffff" text-anchor="middle" letter-spacing="2">SOFTWARE WIZARD • BACKEND ALCHEMIST • CODE SORCERER</text>

@@ -1,10 +1,10 @@
 <div align="center">
 
-<img width="100%" src="header.svg" alt="Magical Header" />
+<img width="100%" src="header.svg?v=3" alt="Magical Header" />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Griffy&weight=700&size=25&duration=3000&pause=800&color=D4AF37&center=true&vCenter=true&width=650&height=45&lines=%3E+Mischief+Managed...+I+mean%2C+Code+Deployed!_%3B%3E+Casting+spells+in+Node.js+%26+React..._%3B%3E+Full-stack+%2B+Open+Source+%3D+Harsh..._%3B%3E+Defeating+bugs+like+Dementors..._%3B%3E+%E2%9A%A1+The+Code+that+Lived..." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Griffy&weight=700&size=25&duration=3000&pause=800&color=D4AF37&center=true&vCenter=true&width=650&height=45&lines=%3E+Mischief+Managed...+I+mean%2C+Code+Deployed!_%3B%3E+Casting+spells+in+Node.js+%26+React..._%3B%3E+Full-stack+%2B+Open+Source+%3D+Harsh..._%3B%3E+Defeating+bugs+like+Dementors..._%3B%3E+The+Code+that+Lived..." alt="Typing SVG" />
 
 <br/><br/>
 
@@ -26,7 +26,7 @@
 
 <p align="center">
   <b> Wizard Identity:</b> Harsh Singh (<i>Gryffindor 🦁</i>) <br/><br/>
-  <b> Current Status:</b> Brewing Code Potions (<i>Full-Stack Dev</i>) <br/><br/>
+  <b>Current Status:</b> Brewing Code Potions (<i>Full-Stack Dev</i>) <br/><br/>
   <b> O.W.L. Expertise:</b> <br/><br/>
   Defense Against Dark Arts (<i>Cybersec</i>) &nbsp;&nbsp;•&nbsp;&nbsp; Potions (<i>Backend APIs</i>) &nbsp;&nbsp;•&nbsp;&nbsp; Transfiguration (<i>React/UI</i>)
 </p>
