@@ -23,7 +23,8 @@
   </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=D4AF37&text=THE%20MARAUDER'S%20MAP&height=60&fontSize=30&fontAlign=50&fontAlignY=50" />
+<br/>
+<h2>🗺️ THE MARAUDER'S MAP</h2>
 
 <table width="100%">
   <tr>
@@ -46,7 +47,8 @@
   </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=D4AF37&text=MAGICAL%20STATS&height=60&fontSize=30&fontAlign=50&fontAlignY=50" />
+<br/>
+<h2>✨ MAGICAL STATS</h2>
 
 <a href="https://github.com/harshsingh07i">
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=harshsingh07i&theme=dracula&show_icons=true&hide_border=true&count_private=true" />
@@ -55,7 +57,8 @@
   <img height="165em" src="https://streak-stats.demolab.com/?user=harshsingh07i&theme=dracula&hide_border=true&ring=D4AF37&fire=740001&currStreakNum=ffffff&sideNums=c9d1d9&dates=888888" />
 </a>
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=D4AF37&text=ROOM%20OF%20REQUIREMENT&height=60&fontSize=30&fontAlign=50&fontAlignY=50" />
+<br/>
+<h2>🔮 ROOM OF REQUIREMENT</h2>
 
 <img src="https://skillicons.dev/icons?i=cpp,c,py,js,ts,java,react,nextjs,tailwind,html,css,vite,nodejs,express,mongodb,postgres,docker,githubactions,vercel,git,github,vscode,postman,bash,linux&perline=12&theme=dark" />
 
