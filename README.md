@@ -1,11 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://i.pinimg.com/originals/44/21/df/4421dfcdd0c3ccf24e94119d6d84a7e8.gif" alt="Magical Hogwarts Banner" style="border-radius: 15px;" />
-
-<br/><br/>
-
-<h1>⚡ HARSH SINGH ⚡</h1>
-<h3>Software Wizard • Backend Alchemist • Code Sorcerer</h3>
+<img width="100%" src="header.svg" alt="Magical Header" />
 
 <br/>
 
