@@ -1,7 +1,7 @@
 <div align="center">
 
-<!-- COSMIC HEADER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0a0f,40:0088ff,60:00ff88,100:0a0a0f&height=220&section=header&text=HARSH%20SINGH&fontSize=72&fontColor=ffffff&fontAlignY=52&desc=Software%20Engineer%20%E2%80%A2%20Backend%20Developer%20%E2%80%A2%20Open%20Source%20Contributor&descSize=17&descAlignY=72&descColor=88ccff&animation=twinkling" />
+<!-- MAGICAL HEADER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0b0c,50:740001,100:D4AF37&height=220&section=header&text=HARSH%20SINGH&fontSize=72&fontColor=D4AF37&fontAlignY=52&desc=Software%20Wizard%20%E2%80%A2%20Backend%20Alchemist%20%E2%80%A2%20Code%20Sorcerer&descSize=17&descAlignY=72&descColor=ffffff&animation=twinkling" />
 
 </div>
 
@@ -9,11 +9,11 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=800&color=0088FF&center=true&vCenter=true&width=650&height=45&lines=%3E+Architecting+scalable+backend+systems..._%3B%3E+Writing+clean%2C+efficient+code..._%3B%3E+Full-stack+%2B+Open+Source+%3D+Harsh..._%3B%3E+Solving+complex+problems..._%3B%3E+%F0%9F%9F%A2+Always+learning+and+building..." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=700&size=22&duration=3000&pause=800&color=D4AF37&center=true&vCenter=true&width=650&height=45&lines=%3E+Mischief+Managed...+I+mean%2C+Code+Deployed!_%3B%3E+Casting+spells+in+Node.js+and+React..._%3B%3E+Full-stack+%2B+Open+Source+%3D+Harsh..._%3B%3E+Defeating+bugs+like+Dementors..._%3B%3E+%E2%9A%A1+The+Code+that+Lived..." alt="Typing SVG" />
 
 <br/><br/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="https://i.pinimg.com/originals/83/88/ca/8388ca6f9eb2f13ff5584b47eb5cbafb.gif" width="400" style="border-radius: 15px;">
 
 </div>
 
@@ -23,53 +23,52 @@
 <tr>
 <td width="55%" valign="top">
 
-## `whoami`
+## 📜 `marauders_map.sh`
 
 ```bash
-$ cat /etc/harsh.conf
+$ cat /etc/sorting_hat
 ```
 
 ```yaml
-identity:
+wizard_identity:
   name:        "Harsh Singh"
-  location:    "Earth 🌍"
-  status:      "🟢 Building amazing things"
+  house:       "Gryffindor 🦁"
+  status:      "⚡ Brewing Polyjuice Potions (Writing Code)"
 
-expertise:
-  - Backend Architecture
-  - Full-Stack Development
-  - Open Source Contribution
-  - Problem Solving
+magical_expertise:
+  - Defense Against Dark Arts (Cybersecurity)
+  - Transfiguration (Full-Stack Dev)
+  - Charms (UI/UX Engineering)
+  - Potions (Backend Architecture)
 
-tech_stack:
-  philosophy:   "Write code that humans can understand."
-  commits:      "Daily"
+spell_book:
+  philosophy:   "I solemnly swear that I am up to no good."
+  commits:      "Daily, like clockwork."
 
-currently_loading:
-  - "Advanced System Design"
-  - "Cloud Architecture"
-  - "Next-gen Web Technologies"
+currently_mastering:
+  - "Advanced Patronus Charms (System Design)"
+  - "Portkeys (Cloud Deployments)"
 
-runtime:
-  fuel:   ["☕ Coffee", "💻 Code", "🚀 Deployments"]
-  uptime: "24/7"
+wand_core:
+  fuel:   ["☕ Butterbeer", "💻 VS Code", "🚀 Spells"]
+  uptime: "Always"
 ```
 
 </td>
 <td width="45%" valign="top">
 
-## `system.stats`
+## 🔮 `system.stats`
 
 <br/>
 
 <a href="https://github.com/harshsingh07i">
-  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=harshsingh07i&theme=2077" />
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=harshsingh07i&theme=dracula" />
 </a>
 
 <br/>
 
 <a href="https://github.com/harshsingh07i">
-  <img width="100%" src="https://streak-stats.demolab.com/?user=harshsingh07i&theme=chartreuse-dark&hide_border=true&background=0d1117&ring=0088ff&fire=00ff88&currStreakNum=ffffff&sideNums=c9d1d9&dates=888888&border_radius=10" />
+  <img width="100%" src="https://streak-stats.demolab.com/?user=harshsingh07i&hide_border=true&background=0d1117&ring=D4AF37&fire=740001&currStreakNum=ffffff&sideNums=c9d1d9&dates=888888&border_radius=10" />
 </a>
 
 </td>
@@ -78,24 +77,24 @@ runtime:
 
 ---
 
-## ⚡ `development.engine` — Building the Web
+## ⚡ `room_of_requirement` — Building the Web
 
 <div align="center">
 
-> **"Don't just write code. Build robust, scalable, and beautiful systems."**
+> **"It does not do to dwell on dreams and forget to live (and deploy)."**
 
 <br/>
 
 ```text
 ┌─────────────────────────────────────────────────────────────────┐
-│                     DEVELOPMENT LIFECYCLE                       │
+│                    ROOM OF REQUIREMENT (CI/CD)                  │
 │                                                                 │
-│  [Idea] ──► [Architecture] ──► [Implementation] ──► [Deploy]    │
-│      │               │                  │               │       │
-│   Plan            Backend           Frontend         Cloud /    │
-│   Design          Database          UI/UX            CI/CD      │
+│  [Idea] ──► [Incantation] ──► [Wand Flick] ──► [Apparate]       │
+│      │               │              │               │           │
+│   Plan            Backend        Frontend        Cloud /        │
+│   Design          Database       UI/UX           Server         │
 │                                                                 │
-│  Status: ██████████████████████  BUILDING  ✓ 0 errors           │
+│  Status: ██████████████████████  CASTING  ✓ 0 fizzles           │
 └─────────────────────────────────────────────────────────────────┘
 ```
 
@@ -113,21 +112,21 @@ runtime:
 <tr>
 <td width="33%" align="center">
 
-**💻 Backend Systems**
+**💻 Potions (Backend)**
 
-Scalable APIs, secure databases, and efficient architectures.
+Scalable APIs, secure databases, and efficient architectures brewed to perfection.
 
 </td>
 <td width="33%" align="center">
 
-**🚀 Full-Stack Apps**
+**🚀 Transfiguration (Full-Stack)**
 
 Seamless integration from intuitive user interfaces to robust servers.
 
 </td>
 <td width="33%" align="center">
 
-**🌐 Open Source**
+**🌐 Charms (Open Source)**
 
 Contributing to projects, fixing bugs, and improving the developer ecosystem.
 
@@ -148,7 +147,7 @@ Contributing to projects, fixing bugs, and improving the developer ecosystem.
 
 ---
 
-## `kernel.capabilities` — Full Tech Arsenal
+## 🪄 `kernel.capabilities` — Full Tech Arsenal
 
 <div align="center">
 
@@ -205,45 +204,45 @@ Contributing to projects, fixing bugs, and improving the developer ecosystem.
 
 ---
 
-## `trophy.json` — Achievements Unlocked
+## 🏆 `trophy.json` — Achievements Unlocked
 
 <div align="center">
 
 <a href="https://github.com/harshsingh07i">
-  <img src="https://github-profile-trophy.vercel.app/?username=harshsingh07i&theme=matrix&no-frame=true&no-bg=true&margin-w=12&column=7" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=harshsingh07i&theme=dracula&no-frame=true&no-bg=true&margin-w=12&column=7" alt="GitHub Trophies" />
 </a>
 
 </div>
 
 ---
 
-## `git log --oneline` — Language Distribution
+## 📈 `git log --oneline` — Magic Distribution
 
 <div align="center">
 
 <a href="https://github.com/harshsingh07i">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=harshsingh07i&theme=2077" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=harshsingh07i&theme=dracula" />
 </a>
 &nbsp;
 <a href="https://github.com/harshsingh07i">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=harshsingh07i&theme=2077" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=harshsingh07i&theme=dracula" />
 </a>
 
 </div>
 
 ---
 
-## `activity.stream` — Live Contribution Graph
+## 🧙‍♂️ `activity.stream` — Live Contribution Graph
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=harshsingh07i&bg_color=0d1117&color=0088ff&line=00ff88&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20Frequency%20Monitor" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=harshsingh07i&bg_color=0d1117&color=D4AF37&line=740001&point=ffffff&area=true&hide_border=true&custom_title=Magic%20Frequency%20Monitor" width="100%" />
 
 </div>
 
 ---
 
-## `ssh-keygen` — Let's Connect
+## 🦉 `owl_post` — Let's Connect
 
 <div align="center">
 
@@ -253,7 +252,7 @@ Contributing to projects, fixing bugs, and improving the developer ecosystem.
 $ ping harshsingh07i --hire
 PING harshsingh07i: 56 data bytes
 64 bytes: seq=0 ttl=64 time=< 24h response
-Available via: GitHub · LinkedIn · Email
+Available via: GitHub · LinkedIn · Owl Post
 ```
 
 <br/>
@@ -268,15 +267,15 @@ Available via: GitHub · LinkedIn · Email
 
 <br/><br/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="https://i.pinimg.com/originals/83/88/ca/8388ca6f9eb2f13ff5584b47eb5cbafb.gif" width="400" style="border-radius: 15px;">
 
 <br/>
 
 <!-- FOOTER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,50:0088ff,100:00ff88&height=130&section=footer&text=Write+Code.+Build+Things.&fontSize=20&fontColor=ffffff&fontAlignY=65&animation=twinkling" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0b0c,50:D4AF37,100:740001&height=130&section=footer&text=Mischief+Managed.&fontSize=40&fontColor=ffffff&fontAlignY=65&animation=twinkling" />
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=harshsingh07i&label=SIGNAL+RECEIVED&color=0088ff&style=for-the-badge" alt="Visitor Count" />
+<img src="https://komarev.com/ghpvc/?username=harshsingh07i&label=SPELLS+CAST&color=D4AF37&style=for-the-badge" alt="Visitor Count" />
 
 </div>
