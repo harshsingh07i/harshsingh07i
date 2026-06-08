@@ -32,7 +32,7 @@
 <h2>✨ MAGICAL STATS</h2>
 
 <a href="https://github.com/harshsingh07i">
-  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=harshsingh07i&theme=dracula&show_icons=true&hide_border=true&count_private=true" />
+  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=harshsingh07i&theme=dracula&show_icons=true&hide_border=true" />
 </a>
 <a href="https://github.com/harshsingh07i">
   <img height="175em" src="https://streak-stats.demolab.com/?user=harshsingh07i&theme=dracula&hide_border=true&ring=D4AF37&fire=740001&currStreakNum=ffffff&sideNums=c9d1d9&dates=888888" />
