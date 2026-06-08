@@ -205,6 +205,18 @@ Contributing to projects, fixing bugs, and improving the developer ecosystem.
 
 ---
 
+## `trophy.json` — Achievements Unlocked
+
+<div align="center">
+
+<a href="https://github.com/harshsingh07i">
+  <img src="https://github-profile-trophy.vercel.app/?username=harshsingh07i&theme=matrix&no-frame=true&no-bg=true&margin-w=12&column=7" alt="GitHub Trophies" />
+</a>
+
+</div>
+
+---
+
 ## `git log --oneline` — Language Distribution
 
 <div align="center">
