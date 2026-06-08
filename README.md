@@ -1,6 +1,7 @@
 <div align="center">
 
-<img width="100%" src="https://kommodo.ai/i/McvgZ9VspJnBNa5zZJGb" alt="Hero Section" />
+<!-- MAGICAL HEADER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0b0c,50:740001,100:D4AF37&height=220&section=header&text=HARSH%20SINGH&fontSize=72&fontColor=D4AF37&fontAlignY=52&desc=Software%20Wizard%20%E2%80%A2%20Backend%20Alchemist%20%E2%80%A2%20Code%20Sorcerer&descSize=17&descAlignY=72&descColor=ffffff&animation=twinkling" />
 
 </div>
 
