@@ -48,7 +48,7 @@
 
 <br/><br/>
 
-<h2>🏆 MAGICAL QUESTS (Top Projects)</h2>
+<h2> MAGICAL QUESTS (Top Projects)</h2>
 
 <p align="center">
   <a href="https://github.com/harshsingh07i"><b>Sahayak AI (EdTech)</b></a> — <i>3rd Rank Winner @ EdTech OnHack</i> <br/>
@@ -63,7 +63,7 @@
 
 <br/><br/>
 
-<h2>✨ MAGICAL STATS</h2>
+<h2> MAGICAL STATS</h2>
 
 <a href="https://github.com/harshsingh07i">
   <img height="175em" src="https://github-readme-stats.vercel.app/api?username=harshsingh07i&theme=dracula&show_icons=true&hide_border=true" />
