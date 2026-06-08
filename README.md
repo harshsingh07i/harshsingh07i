@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="header.svg?v=3" alt="Magical Header" />
+<img width="100%" src="header_new.svg" alt="Magical Header" />
 
 <br/>
 

@@ -1,7 +1,7 @@
 import base64
 
 image_path = r"d:\projects\Fork Projects\harshsingh07i\hero_image.jpeg"
-svg_path = r"d:\projects\Fork Projects\harshsingh07i\header.svg"
+svg_path = r"d:\projects\Fork Projects\harshsingh07i\header_new.svg"
 
 with open(image_path, "rb") as f:
     b64_data = base64.b64encode(f.read()).decode("utf-8")
