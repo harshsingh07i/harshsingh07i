@@ -49,15 +49,7 @@
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=D4AF37&text=ACHIEVEMENTS%20UNLOCKED&height=60&fontSize=30&fontAlign=50&fontAlignY=50" />
 
-<br/>
-
-<a href="https://github.com/harshsingh07i">
-  <img src="https://github-profile-trophy.vercel.app/?username=harshsingh07i&theme=dracula&no-frame=true&no-bg=true&margin-w=12&column=7" alt="GitHub Trophies" />
-</a>
-
-<br/><br/>
 
 <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=D4AF37&text=OWL%20POST&height=60&fontSize=30&fontAlign=50&fontAlignY=50" />
 
