@@ -23,7 +23,7 @@
 <p align="center">
   <b>🧙‍♂️ Wizard Identity:</b> Harsh Singh (<i>Gryffindor 🦁</i>) <br/><br/>
   <b>⚡ Current Status:</b> Brewing Code Potions (<i>Full-Stack Dev</i>) <br/><br/>
-  <b>🎯 O.W.L. Expertise:</b> <br/><br/>
+  <b>🦉 O.W.L. Expertise:</b> <br/><br/>
   Defense Against Dark Arts (<i>Cybersec</i>) &nbsp;&nbsp;•&nbsp;&nbsp; Potions (<i>Backend APIs</i>) &nbsp;&nbsp;•&nbsp;&nbsp; Transfiguration (<i>React/UI</i>)
 </p>
 
